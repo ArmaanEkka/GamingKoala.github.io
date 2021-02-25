@@ -1,0 +1,43 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    background-image: url('Back1.png');
+    width: 100%;
+    height: 100vh;
+    background-size: 100% 100%;
+  }
+  
+
+
+.backclr {
+    width: 100%;
+    height:50vh;
+    background-image: url('Koala.jpg');
+    background-size: 100% 100%;
+
+}
+
+
+#Line1 {
+    width: 100%;
+    height: 10vh;
+    background-color: coral;
+    font-size:large;
+    font-style:italic;
+    font-family: 'Notable', sans-serif;
+    font-size: 50px;
+    text-align: center;
+
+}
+
+.G1 {
+    width: 5%;
+    height: 10vh;
+    position: fixed;
+    background-color: darkgoldenrod;
+    /*background-image: url('');*/
+    background-size: 100% 100%;
+    border-radius: 20px;
+}
+
+  
